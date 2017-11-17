@@ -1,0 +1,14 @@
+{
+    "attributes": {
+        "values": {
+            "context": "input"
+        },
+        "width": {
+            "context": "input"
+        },
+        "60\"": {
+            "context": "textarea"
+        }
+    },
+    "elements": {}
+}
